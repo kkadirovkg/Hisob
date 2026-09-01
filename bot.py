@@ -11,7 +11,7 @@ from telegram.ext import (
 # =========================
 # TOKENNI SHU YERGA YOZING
 # =========================
-TOKEN = "8893791649:AAGFTNGeZiGu5rIpuSaGtoC9MPXn5x4cHRw"
+TOKEN = "BU_YERGA_BOT_TOKENINGIZNI_YOZING"
 
 # =========================
 # BAZA
