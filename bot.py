@@ -1,3 +1,4 @@
+import os
 import sqlite3
 from telegram import Update
 from telegram.ext import (
@@ -11,7 +12,7 @@ from telegram.ext import (
 # =========================
 # TOKENNI SHU YERGA YOZING
 # =========================
-TOKEN = "BU_YERGA_BOT_TOKENINGIZNI_YOZING"
+TOKEN = os.environ["BOT_TOKEN"]
 
 # =========================
 # BAZA
